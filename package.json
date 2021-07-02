@@ -1,0 +1,24 @@
+{
+  "name": "codesandbox-vuepress-next",
+  "version": "1.0.0",
+  "description": "VuePress Next repro",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-dura/codesandbox-vuepress-next.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-dura/codesandbox-vuepress-next/issues"
+  },
+  "homepage": "https://github.com/chris-dura/codesandbox-vuepress-next#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.20"
+  }
+}
